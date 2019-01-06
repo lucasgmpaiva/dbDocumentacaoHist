@@ -1,0 +1,4 @@
+Funcionalidades - Projeto Banco de Dados
+
+Classe mãe - Documentação 
+Classes filhas - Cartas Patentes (Nomeações Militares), Provisões (Outros Cargos), Outros;
