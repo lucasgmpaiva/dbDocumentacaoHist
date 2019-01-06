@@ -1,4 +1,14 @@
 Funcionalidades - Projeto Banco de Dados
 
 Classe mãe - Documentação 
+ Atributos:
+   - Tipo Documental - Patente, Provisão, Outros; 
+   - Governo de Capitania (Que recebeu a nomeação) - Rio Grande, Ceará, Itamaracá, Paraíba, Pernambuco, Outros; 
+   - Autoridade (Quem concede a nomeação)- Campo em aberto;
+   - Provido (Quem recebe a nomeação) - Campo em aberto;
+   - Posto/Cargo (Cargo de quem recebeu a nomeação) - Campo em aberto; 
+   - Condições (Condições de nomeações; requisitos a serem cumpridos.) - Campo em aberto;
+   - Observações (Dados extras) - Campo em aberto; 
+   - Data (Data da nomeação) - Campo em aberto - 3 atributos: dia, mês e ano;
+   - Fonte (Fonte da documentação ) - Campo em aberto;
 Classes filhas - Cartas Patentes (Nomeações Militares), Provisões (Outros Cargos), Outros;
