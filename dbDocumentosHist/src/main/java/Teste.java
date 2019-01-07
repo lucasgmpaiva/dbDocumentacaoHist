@@ -17,12 +17,6 @@ public class Teste {
 		doc1.setMes(02);
 		doc1.setAno(1964);
 		
-		
-		DocumentoDAO dao = new DocumentoDAO();
-		
-		dao.addDocumento(doc1);
-		
-		System.out.println("hello, world!");
-	
+		DocumentoDAO dao = new DocumentoDAO(); 
 	}
 }
